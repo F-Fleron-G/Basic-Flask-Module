@@ -28,15 +28,11 @@ A responsive and user-friendly Flask-based blog application where users can crea
    ```bash
    cd Basic-Flask-Module
 
-3. Install dependencies (if required):
-   ```bash
-   pip install -r requirements.txt
-
-4. Run the application: 
+3. Run the application: 
    ```bash
    python3 app.py
 
-5. Open the application in your browser at:
+4. Open the application in your browser at:
    
    http://127.0.0.1:5000
  
