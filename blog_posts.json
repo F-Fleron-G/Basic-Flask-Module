@@ -1,9 +1,9 @@
 [
     {
-        "id": 1,
-        "author": "John Doe",
-        "title": "First Post",
-        "content": "This is my first post."
+        "id": 4,
+        "author": "Jane Doe",
+        "title": "First Post ",
+        "content": "This is another post."
     },
     {
         "id": 2,
@@ -15,6 +15,6 @@
         "id": 3,
         "author": "Jane Doe",
         "title": "Third Post",
-        "content": "  This is another post."
+        "content": "This is another post."
     }
 ]

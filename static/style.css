@@ -94,6 +94,24 @@ form button:hover {
     border: 1px solid #84affa;
 }
 
+.delete-button {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 14px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.delete-button:hover {
+    background-color: #fff;
+    color: #e74c3c;
+    border: 1px solid #e74c3c;
+    cursor: pointer;
+}
+
 @media screen and (max-width: 600px) {
     body {
         padding: 10px;
